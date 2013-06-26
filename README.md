@@ -7,6 +7,12 @@ command line personal log
 
 Clone the repo and customise the variables at the top of csvgit.sh - just your git username and project directory.
 
+To check your git username (its your git user.name, nothing to do with github):
+
+```
+git config user.name
+```
+
 # Usage
 
 For a simple csv output of today's work:
